@@ -9,7 +9,7 @@ This project uses Hugging Face API for image classification (or your specific ta
 - Built with Python + requests library (or Streamlit/Gradio if applicable)
 
 ## How to Run
-Clone the Repository:
+Clone the Repository:https://github.com/vaibhavi1512/Smart-Image-Classifier/tree/main
 
 git clone 
 cd vqa-project
